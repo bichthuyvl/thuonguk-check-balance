@@ -1,0 +1,33 @@
+{
+  "name": "thuonguk-check-balance",
+  "version": "1.0.0",
+  "description": "A Node.js module to check Ethereum wallet balance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thuonguk/thuonguk-check-balance.git"
+  },
+  "keywords": [
+    "thuonguk-check-balance",
+    "ethereum",
+    "gas",
+    "balance",
+    "eth",
+    "crypto"
+  ],
+  "author": "thuonguk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thuonguk/thuonguk-check-balance/issues"
+  },
+  "homepage": "https://github.com/thuonguk/thuonguk-check-balance#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "web3": "^1.5.2",
+    "thuonguks-convert": "1.0.0"
+
+  }
+}
