@@ -1,6 +1,6 @@
 {
   "name": "thuonguk-check-balance",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Node.js module to check Ethereum wallet balance",
   "main": "index.js",
   "scripts": {
@@ -27,7 +27,7 @@
   "dependencies": {
     "axios": "^0.24.0",
     "web3": "^1.5.2",
-    "thuonguks-convert": "1.0.1"
+    "thuonguks-convert": "1.0.2"
 
   }
 }
