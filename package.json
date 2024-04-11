@@ -27,7 +27,7 @@
   "dependencies": {
     "axios": "^0.24.0",
     "web3": "^1.5.2",
-    "thuonguks-convert": "1.0.0"
+    "thuonguks-convert": "1.0.1"
 
   }
 }
